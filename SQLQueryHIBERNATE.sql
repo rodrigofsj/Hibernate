@@ -1,0 +1,10 @@
+CREATE DATABASE EALHibernate
+USE EALHibernate
+USE LOJA
+DROP DATABASE EALHibernate
+
+
+SELECT * FROM Autores
+SELECT * FROM Email
+SELECT * FROM Livros
+SELECT * FROM Editora
